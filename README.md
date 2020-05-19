@@ -11,6 +11,6 @@ We determined structural connectivities with diffusion-weighted MRI and function
 As input the script needs structural and functional connectivity matrices. The provided script enables the user to plot individual datapoints of structural and functional connectivity, to plot the generalized additive model and its first derivative including the 95% confidence interval. The script also enables to determine the tipping point, the structural connectivity value from which structural and functional connectivity become significantly associated (the 95% confidence interval does not include 0). 
 
 A non-linear fit between structural and functional connectivity in the human brain:  
-![alt text](https://github.com/wmotte/tipping-point/raw/master/images/fit.png "Example of fit")
+![alt text](https://github.com/wmotte/tipping-point/blob/master/Example_fit.png "Example of fit")
 
 The individual datapoints are shown as blue circles; the blue line represents the generalized additive model fit and the orange line represents the first derivative including shades that represent its 95% confidence interval. The dotted vertical line represents the structure-function tipping point. 
